@@ -1,0 +1,9 @@
+.ipynb_checkpoints
+*.cache
+*.checkpoint*
+
+demo_samples/
+kaggle_os_dataset/
+
+braille_dsbi/
+braille_angelina/
