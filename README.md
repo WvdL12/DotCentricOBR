@@ -1,5 +1,5 @@
 
-Datasets currently expected to be used was sourced from  
+Datasets available for use sourced from  
 * [Ilya Ovodov, Angelina Set](https://github.com/IlyaOvodov/AngelinaDataset)  
 * [Kaggle, Braille image set](https://www.kaggle.com/datasets/shanks0465/braille-character-dataset)  
 * [DSBI Dataset](https://github.com/yeluo1994/DSBI)  
