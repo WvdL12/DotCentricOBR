@@ -10,7 +10,7 @@ These datasets contain both Onesided and Twosided Braille documents and characte
 The data labeling has been standardised from the different datasets. To account for generality, the label system used describes the dots present in a given Braille character, rather than directly translating the character.  
 
 The `Braille Document Data` directory contains the raw Braille document datasets, with label files for character bounding boxes and labels, split into training, validation and testing sets.  
-The `Structured Character Data` directory contains the extracted image data for the Braille characters included in the above datasets, with labels, structured as numpy array files.  
+The `Structured Character Data` directory is intended for the extracted image data for the Braille characters included in the above datasets, with labels, structured as numpy array files. However, Github data quotas and storage limits prevents adding these files directly.  
 
 ## Model tuning
 
